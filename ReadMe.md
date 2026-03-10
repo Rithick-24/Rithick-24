@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Rithick S<br><br>👨‍🎓 Computer Science and Engineering Student (AI/ML Specialization) – Graduating May 2026<br>🚀 Aspiring AI/ML Engineer and Full-Stack Developer<br>💻 Skilled in Python, Java, React.js, Node.js, and Machine Learning Projects<br>📚 Research Enthusiast – Published in Scopus-Indexed Conferences on Smart Tech<br>🔬 Hands-On Experience from IBM and Web Dev Internships<br>🤝 Looking forward to collaborating on AI-driven innovations like computer vision and sustainable systems
+<h1>Hi there 👋 I'm Rithick S</h1><br><br>👨‍🎓 Computer Science and Engineering Student (AI/ML Specialization) – Graduating May 2026<br>🚀 Aspiring AI/ML Engineer and Full-Stack Developer<br>💻 Skilled in Python, Java, React.js, Node.js, and Machine Learning Projects<br>📚 Research Enthusiast – Published in Scopus-Indexed Conferences on Smart Tech<br>🔬 Hands-On Experience from IBM and Web Dev Internships<br>🤝 Looking forward to collaborating on AI-driven innovations like computer vision and sustainable systems
 
 
 # 💻 Tech Stack:
